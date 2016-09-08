@@ -1,6 +1,6 @@
 # UINavigationController-
 
-
+``` object-c
 自定义UINavigationController,把push出来的View,用手指滑屏返回.(全屏)
 
 - (void)viewDidLoad {
@@ -35,3 +35,4 @@
     }
     return YES;
 }
+```
