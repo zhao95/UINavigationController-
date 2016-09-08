@@ -1,5 +1,5 @@
 
-#自定义UINavigationController,把push出来的View,用手指滑屏返回.(全屏)
+#自定义UINavigationController,把push出来的View,用手指滑屏返回.(全屏滑动手势,非边缘滑动手势)
 ``` Objective-C
 
 # UINavigationController-
