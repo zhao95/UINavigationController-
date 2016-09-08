@@ -1,7 +1,8 @@
-# UINavigationController-
 
+#自定义UINavigationController,把push出来的View,用手指滑屏返回.(全屏)
 ``` Objective-C
-自定义UINavigationController,把push出来的View,用手指滑屏返回.(全屏)
+
+# UINavigationController-
 
 - (void)viewDidLoad {
     [super viewDidLoad];
